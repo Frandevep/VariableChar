@@ -1,0 +1,2 @@
+# VariableChar
+Impresion de caracter
